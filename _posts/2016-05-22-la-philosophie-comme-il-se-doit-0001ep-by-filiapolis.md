@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://soundcloud.com/filiapolis_fr/la-philosophie-comme-il-se-d
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T12:42:48.842Z'
-dateModified: '2016-05-22T12:42:15.695Z'
+datePublished: '2016-05-22T13:48:19.190Z'
+dateModified: '2016-05-22T13:48:18.566Z'
 author:
   - name: FILIAPOLIS
     url: 'http://soundcloud.com/filiapolis_fr'
@@ -51,6 +51,7 @@ app_links:
     namespace: google
     type: ios
 title: ''
+sourcePath: _posts/2016-05-22-la-philosophie-comme-il-se-doit-0001ep-by-filiapolis.md
 authors: []
 publisher:
   name: SoundCloud
@@ -58,7 +59,6 @@ publisher:
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 starred: false
-sourcePath: _posts/2016-05-22-la-philosophie-comme-il-se-doit-0001ep-by-filiapolis.md
 _type: AudioObject
 _context: 'http://schema.org'
 
