@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://soundcloud.com/filiapolis_fr/la-philosophie-comme-il-se-d
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T13:48:19.190Z'
-dateModified: '2016-05-22T13:48:18.566Z'
+datePublished: '2016-05-22T13:48:37.419Z'
+dateModified: '2016-05-22T13:48:35.988Z'
 author:
   - name: FILIAPOLIS
     url: 'http://soundcloud.com/filiapolis_fr'
